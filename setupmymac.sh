@@ -104,4 +104,75 @@ brew install npm
 brew install node
 brew install sbt
 brew install tig
+brew install brew install atk
+brew install bison
+brew install c-ares
+brew install cairo
+brew install cmake
+brew install coursier
+brew install d-bus
+brew install dbus
+brew install emacs
+brew install fontconfig
+brew install freetype
+brew install gdbm
+brew install gdk-pixbuf
+brew install geoip
+brew install gettext
+brew install git
+brew install glib
+brew install gmp
+brew install gnutls
+brew install gobject-introspection
+brew install graphviz
+brew install groovy
+brew install gtk+
+brew install harfbuzz
+brew install hicolor-icon-theme
+brew install icu4c
+brew install jmeter
+brew install john-jumbo
+brew install jpeg
+brew install jq
+brew install libevent
+brew install libffi
+brew install libgcrypt
+brew install libgpg-error
+brew install libpng
+brew install libtasn1
+brew install libtiff
+brew install makedepend
+brew install maven
+brew install mongodb
+brew install nettle
+brew install nmap
+brew install node
+brew install oniguruma
+brew install openssl
+brew install p7zip
+brew install pango
+brew install pcre
+brew install pixman
+brew install pkg-config
+brew install py2cairo
+brew install pygobject
+brew install pygtk
+brew install python
+brew install qt
+brew install qt5
+brew install readline
+brew install reattach-to-user-namespace
+brew install sbt
+brew install scala
+brew install sqlite
+brew install tmux
+brew install tomcat
+brew install wemux
+brew install wireshark
+brew install xdot
+brew install xz
+
+
+
+
 
