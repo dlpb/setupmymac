@@ -94,6 +94,9 @@ curl https://az764295.vo.msecnd.net/stable/6276dcb0ae497766056b4c09ea75be1d76a8b
 touch $TARGET/visualstudio.zip
 unzip -o $TARGET/visualstudio.zip -d $TARGET
 
+#Download XtraFinder
+curl https://www.trankynam.com/xtrafinder/downloads/XtraFinder.dmg -l > $TARGET/xtrafinder.dmg
+
 ls -lah $TARGET
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
