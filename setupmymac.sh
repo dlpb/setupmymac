@@ -28,6 +28,11 @@ curl https://download.filezilla-project.org/client/FileZilla_3.21.0_macosx-x86_s
 touch $TARGET/filezilla-setup.zip
 unzip -o $TARGET/filezilla-setup.zip -d $TARGET
 
+#Download flux
+curl https://justgetflux.com/mac/Flux.zip -l > $TARGET/flux.zip
+touch $TARGET/flux.zip
+unzip -o $TARGET/flux.zip -d $TARGET
+
 #Download Garmin Connect
 curl http://download.garmin.com/omt/express/B/GarminExpressInstaller.dmg -l > $TARGET/garminexpress.dmg
 
